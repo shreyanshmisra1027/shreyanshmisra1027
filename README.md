@@ -85,24 +85,9 @@ Tools I use or am actively studying. This is a practical overview of my learning
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyanshmisra1027&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=bdbdbd&icon_color=9e9e9e&text_bold=false&count_private=false" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshmisra1027&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=bdbdbd&langs_count=6" alt="Most used languages"/>
-
 <img src="https://streak-stats.demolab.com?user=shreyanshmisra1027&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BDBDBD&sideLabels=9E9E9E&dates=6E6E6E&stroke=2A2A2A" alt="Contribution streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshmisra1027&bg_color=000000&color=bdbdbd&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true" alt="Contribution activity graph" width="100%"/>
-
-</div>
-
-<sub>Language statistics only reflect bytes of code in public repositories and do not indicate professional proficiency.</sub>
-
-<img src="assets/divider.svg" alt="" width="100%"/>
-
-## Contribution snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shreyanshmisra1027/shreyanshmisra1027/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" width="100%"/>
 
 </div>
 
