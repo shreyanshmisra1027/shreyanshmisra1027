@@ -14,7 +14,7 @@
 
 B.Tech Computer Science and Engineering (Cybersecurity) student at **VIT Chennai**, graduating in **2030**.
 
-I'm interested in software engineering, systems programming and security, and I'm working through computer science fundamentals one layer at a time. I'm still early in that process, and I'd rather understand something properly than copy it quickly.
+I'm interested in software engineering, systems programming, and security, and I'm working through computer science fundamentals one layer at a time. I'd rather understand something properly from first principles than copy solutions quickly.
 
 ```python
 class Developer:
@@ -45,25 +45,25 @@ class Developer:
 
 | Area | Focus |
 | :-- | :-- |
-| Data Structures and Algorithms | Problem solving on Codewars and LeetCode |
-| C / C++ | Programming fundamentals |
-| Python | Everyday development and scripting |
-| Java | Object-oriented programming |
-| Linux | Command line and system administration |
-| Cybersecurity | Fundamentals |
-| Software engineering | Version control, structure and good practice |
+| Data Structures and Algorithms | Problem solving and algorithm implementation |
+| C / C++ | Systems programming and memory management fundamentals |
+| Python | Development, scripting, and tooling |
+| Java | Object-oriented programming principles |
+| Linux | Command-line environment and system administration |
+| Cybersecurity | Security foundations and network principles |
+| Software engineering | Version control, clean architecture, and best practices |
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## Technology
+## Technology stack
 
-Tools I use or am actively studying. This is a list of what I'm learning, not a claim of proficiency.
+Tools I use or am actively studying. This is a practical overview of my learning stack, not a claim of professional proficiency.
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts&theme=dark" alt="Python, C, C++, Java, HTML, CSS, JavaScript, TypeScript"/>
 
 **Development tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Git, GitHub, VS Code, Docker"/>
 
 **Systems**  
 <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" alt="Linux, Bash"/>
@@ -74,14 +74,14 @@ Tools I use or am actively studying. This is a list of what I'm learning, not a 
 
 | Repository | What it is | Language |
 | :-- | :-- | :-- |
-| [**hackverse-sprint3**](https://github.com/shreyanshmisra1027/hackverse-sprint3) | *ineVITable*: a messaging app for private two-person conversations between VIT students, using WebRTC data channels | TypeScript |
-| [**Personal-Portfolio**](https://github.com/shreyanshmisra1027/Personal-Portfolio) | Personal portfolio site with an interactive 3D centrepiece (React, Three.js, Vite) | TypeScript |
-| [**ProblemSolving**](https://github.com/shreyanshmisra1027/ProblemSolving) | Solutions to coding problems from Codewars and LeetCode | Python |
-| [**Arduino-Projects**](https://github.com/shreyanshmisra1027/Arduino-Projects) | Arduino and ESP32 experiments, built and simulated on Wokwi | Arduino |
+| [**CrankView**](https://github.com/shreyanshmisra1027/CrankView) | Interactive 3D four-stroke engine simulator and thermodynamics laboratory | TypeScript |
+| [**Personal-Portfolio**](https://github.com/shreyanshmisra1027/Personal-Portfolio) | Personal engineering portfolio site featuring interactive 3D WebGL visuals | TypeScript |
+| [**hackverse-sprint3**](https://github.com/shreyanshmisra1027/hackverse-sprint3) | *ineVITable*: private two-person communication app using WebRTC data channels | TypeScript |
+| [**shreyanshmisra1027.github.io**](https://github.com/shreyanshmisra1027/shreyanshmisra1027.github.io) | Personal GitHub Pages developer landing page | CSS |
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## GitHub activity
+## GitHub statistics
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Tools I use or am actively studying. This is a list of what I'm learning, not a 
 
 </div>
 
-<sub>Language statistics only reflect bytes of code in public repositories. They aren't a measure of skill.</sub>
+<sub>Language statistics only reflect bytes of code in public repositories and do not indicate professional proficiency.</sub>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
@@ -110,9 +110,7 @@ Tools I use or am actively studying. This is a list of what I'm learning, not a 
 
 ## Connect
 
-<!-- TODO: add LinkedIn once the URL is known, e.g.
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) -->
-
-[**GitHub**](https://github.com/shreyanshmisra1027)
+- **GitHub**: [github.com/shreyanshmisra1027](https://github.com/shreyanshmisra1027)
+- **LinkedIn**: *Placeholder — update once profile URL is available*
 
 <img src="assets/footer.svg" alt="Building, Learning, Improving" width="100%"/>
